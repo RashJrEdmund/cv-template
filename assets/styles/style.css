@@ -213,3 +213,48 @@ footer .media-icons:hover {
 footer a{
   color: #fff;
 }
+
+/* MEDIA QUERRY */
+
+@media only screen and (max-width: 600px) {
+  .whole {
+    grid-template-columns: 1fr;
+    justify-content: center;30rem
+  }
+  
+  .side-block {
+    border-radius: 3px;
+    max-width: 100%;
+    width: 90vw;
+    
+    height: auto;
+    margin: auto;
+    border: 1px solid black;
+  }
+  .side-block .avatar {
+    background: url("../images/avatar.png");
+    background-position: center;
+    background-size: cover;
+    color: #000;
+    width: auto;
+  
+    /* height: 40vw; */
+  
+    height: 18.5rem;
+    max-height: 30rem;
+    font-size: 1.5rem;
+  }
+  
+  .side-block .contact {
+    padding: 0.4rem 1rem;
+  }
+
+  .first-and-second {
+    margin: auto;
+    width: 100vw;
+  }
+
+  footer {
+    width: 100vw;
+  }
+}
