@@ -1,0 +1,215 @@
+body {
+  font-family: sans-serif;
+  padding-top: 15px;
+  background-color: #f0f0f0;
+  margin: 0;
+}
+
+hr {
+  opacity: 0.5;
+}
+
+.whole {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  /* grid-template-columns: repeat(2, minmax(25rem, 1fr)); */
+
+  /* gap: 1rem; */
+  max-width: 1224px;
+  margin: auto;
+  background-color: #e2a8a8;
+  border: .5px solid black;
+}
+
+/* FIRST BLOCK START */
+
+.side-block {
+  border-radius: 3px;
+  max-width: 30rem;
+  /* width: 40vw; */
+  width: auto;
+  height: auto;
+  border: 1px solid black;
+}
+.side-block .avatar {
+  background: url("../images/avatar.png");
+  background-position: center;
+  background-size: cover;
+  color: #000;
+  width: auto;
+
+  /* height: 40vw; */
+
+  height: 18.5rem;
+  max-height: 30rem;
+  font-size: 1.5rem;
+}
+
+.side-block .contact {
+  padding: 0.4rem 1rem;
+}
+
+/* edditing skill levels*/
+
+.section-header {
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+.skills {
+  padding: 0.4rem 1rem;
+}
+
+.languages {
+  padding: 0.4rem 1rem 1.5rem;
+}
+
+/* skill bar start */
+
+.full-bar {
+  height: 1.5rem;
+  border-radius: 10rem;
+  background-color: #d3d3d3;
+}
+
+.adobe-green-bar {
+  width: 90%;
+  height: 1.5rem;
+  border-radius: 10rem;
+  background-color: #009688;
+  color: #fff;
+  text-align: center;
+}
+
+.adobe-green-bar .text {
+  padding-top: 1%;
+} 
+
+.photography-green-bar {
+  width: 80%;
+  height: 1.5rem;
+  border-radius: 10rem;
+  background-color: #009688;
+  color: #fff;
+  text-align: center;
+}
+
+.photography-green-bar .text {
+  padding-top: 1%;
+}
+
+.illustrator-green-bar {
+  width: 75%;
+  height: 1.5rem;
+  border-radius: 10rem;
+  background-color: #009688;
+  color: #fff;
+  text-align: center;
+}
+
+.illustrator-green-bar .text {
+  padding-top: 1%;
+}
+
+.media-green-bar {
+  width: 50%;
+  height: 1.5rem;
+  border-radius: 10rem;
+  background-color: #009688;
+  color: #fff;
+  text-align: center;
+}
+
+.media-green-bar .text {
+  padding-top: 1%;
+}
+
+.english-green-bar {
+  width: 100%;
+  height: 1.5rem;
+  border-radius: 10rem;
+  background-color: #009688;
+}
+
+.spanish-green-bar {
+  width: 50%;
+  height: 1.5rem;
+  border-radius: 10rem;
+  background-color: #009688;
+}
+
+.german-green-bar {
+  width: 25%;
+  height: 1.5rem;
+  border-radius: 10rem;
+  background-color: #009688;
+}
+
+/* skill bar end */
+/* FIRST BLOCK END */
+/* SECOND BLOCK START */
+
+.first-and-second {
+  background-color: yellow;
+  /* width: fit-content; */
+  width: 100%;
+  margin-right: 10px;
+}
+
+.date {
+  color: #009688;
+}
+
+.second-block {
+  border-radius: 3px;
+  border: 1px solid black;
+  margin-top: 1rem;
+  padding: 1rem;
+  height: fit-content;
+}
+
+.second-block h1 {
+  margin-bottom: 2.5rem;
+}
+
+.second-block button {
+  border: none;
+  background-color: #009688;
+  color: #fff;
+  padding: 0.3rem;
+  font-size: large;
+  border-radius: 3px;
+}
+
+/* SECOND BLOCK END */
+/* 3RD BLOCK START */
+
+.third-block {
+  border-radius: 3px;
+  border: 1px solid black;
+  margin-top: 1rem;
+  padding: 1rem;
+}
+
+.third-block h1 {
+  margin-bottom: 2.5%;
+}
+
+/* 3RD BLOCK END */
+/* FOOTER START */
+
+footer {
+  text-align: center;
+  background-color: #009688;
+  color: #fff;
+  padding: 2rem 0;
+  margin-top: 1rem;
+}
+
+footer .media-icons:hover {
+  background-color: #f0f0f0;
+}
+
+footer a{
+  color: #fff;
+}
