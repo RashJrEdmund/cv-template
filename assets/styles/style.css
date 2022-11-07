@@ -154,7 +154,9 @@ hr {
 }
 
 /* skill bar end */
+
 /* FIRST BLOCK END */
+
 /* SECOND BLOCK START */
 
 .first-and-second {
@@ -177,12 +179,12 @@ hr {
   box-shadow: 0 4px 10px 0 #808080;
 }
 
-.second-block 
+.second-block
 h1 {
   margin-bottom: 2.5rem;
 }
 
-.second-block 
+.second-block
 button {
   border: none;
   background-color: #009688;
@@ -193,6 +195,7 @@ button {
 }
 
 /* SECOND BLOCK END */
+
 /* 3RD BLOCK START */
 
 .third-block {
@@ -208,6 +211,7 @@ h1 {
 }
 
 /* 3RD BLOCK END */
+
 /* FOOTER START */
 
 footer {
@@ -218,18 +222,19 @@ footer {
   margin-top: 1rem;
 }
 
-footer 
+footer
 .media-icon {
   font-weight: bold;
 }
-footer 
+
+footer
 .media-icons:hover {
   background-color: #d3d3d3;
   opacity: 0.8;
 }
 
-footer 
-a{
+footer
+a {
   color: #fff;
 }
 
@@ -240,7 +245,7 @@ a{
     grid-template-columns: 1fr;
     justify-content: center;
   }
-  
+
   .side-block {
     border-radius: 3px;
     max-width: 100%;
@@ -248,22 +253,22 @@ a{
     height: auto;
     margin: auto;
   }
-  .side-block 
+  .side-block
   .avatar {
     background: url("../images/avatar.png");
     background-position: center;
     background-size: cover;
     color: #000;
     width: auto;
-  
+
     /* height: 40vw; */
-  
+
     height: 18.5rem;
     max-height: 30rem;
     font-size: 1.5rem;
   }
-  
-  .side-block 
+
+  .side-block
   .contact {
     padding: 0.4rem 1rem;
   }
