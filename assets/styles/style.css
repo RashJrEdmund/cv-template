@@ -230,10 +230,9 @@ footer a{
   .side-block {
     border-radius: 3px;
     max-width: 100%;
-    width: 90vw;
+    width: 96%;
     height: auto;
     margin: auto;
-    border: 1px solid black;
   }
   .side-block .avatar {
     background: url("../images/avatar.png");
@@ -255,7 +254,7 @@ footer a{
 
   .first-and-second {
     margin: auto;
-    width: 100%;
+    width: 96%;
   }
 
   footer {
