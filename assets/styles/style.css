@@ -30,7 +30,7 @@ hr {
   box-shadow: 0 4px 10px 0 #808080;
 }
 
-.side-block 
+.side-block
 .avatar {
   background: url("../images/avatar.png");
   background-position: center;
@@ -48,7 +48,7 @@ hr {
   font-size: 1.5rem; */
 }
 
-.side-block 
+.side-block
 .contact {
   padding: 0.4rem 1rem;
 }
@@ -85,7 +85,7 @@ hr {
   text-align: center;
 }
 
-.adobe-green-bar 
+.adobe-green-bar
 .text {
   padding-top: 1%;
 }
@@ -99,7 +99,7 @@ hr {
   text-align: center;
 }
 
-.photography-green-bar 
+.photography-green-bar
 .text {
   padding-top: 1%;
 }
@@ -113,7 +113,7 @@ hr {
   text-align: center;
 }
 
-.illustrator-green-bar 
+.illustrator-green-bar
 .text {
   padding-top: 1%;
 }
@@ -127,7 +127,7 @@ hr {
   text-align: center;
 }
 
-.media-green-bar 
+.media-green-bar
 .text {
   padding-top: 1%;
 }
