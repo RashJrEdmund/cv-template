@@ -29,12 +29,12 @@ hr {
   width: 100%;
   box-shadow: 0 4px 10px 0 #808080;
 }
-.side-block .avatar {
+.side-block 
+.avatar {
   background: url("../images/avatar.png");
   background-position: center;
   background-size: cover;
   color: #000;
-  width: auto;
   display: flex;
   align-items: flex-end;
   width: 100%;
@@ -42,16 +42,17 @@ hr {
 
   /* height: 40vw; */
 
- /*  height: 18.5rem;
+  /*  height: 18.5rem;
   max-height: 30rem;
   font-size: 1.5rem; */
 }
 
-.side-block .contact {
+.side-block 
+.contact {
   padding: 0.4rem 1rem;
 }
 
-/* edditing skill levels*/
+/* edditing skill levels */
 
 .section-header {
   font-size: 1.3rem;
@@ -83,9 +84,10 @@ hr {
   text-align: center;
 }
 
-.adobe-green-bar .text {
+.adobe-green-bar 
+.text {
   padding-top: 1%;
-} 
+}
 
 .photography-green-bar {
   width: 80%;
@@ -96,7 +98,8 @@ hr {
   text-align: center;
 }
 
-.photography-green-bar .text {
+.photography-green-bar 
+.text {
   padding-top: 1%;
 }
 
@@ -109,7 +112,8 @@ hr {
   text-align: center;
 }
 
-.illustrator-green-bar .text {
+.illustrator-green-bar 
+.text {
   padding-top: 1%;
 }
 
@@ -122,7 +126,8 @@ hr {
   text-align: center;
 }
 
-.media-green-bar .text {
+.media-green-bar 
+.text {
   padding-top: 1%;
 }
 
@@ -152,7 +157,9 @@ hr {
 /* SECOND BLOCK START */
 
 .first-and-second {
+
   /* width: fit-content; */
+
   width: 100%;
   margin-right: 10px;
 }
@@ -169,11 +176,13 @@ hr {
   box-shadow: 0 4px 10px 0 #808080;
 }
 
-.second-block h1 {
+.second-block 
+h1 {
   margin-bottom: 2.5rem;
 }
 
-.second-block button {
+.second-block 
+button {
   border: none;
   background-color: #009688;
   color: #fff;
@@ -192,7 +201,8 @@ hr {
   box-shadow: 0 4px 10px 0 #808080;
 }
 
-.third-block h1 {
+.third-block
+h1 {
   margin-bottom: 2.5%;
 }
 
@@ -207,15 +217,18 @@ footer {
   margin-top: 1rem;
 }
 
-footer .media-icon {
+footer 
+.media-icon {
   font-weight: bold;
 }
-footer .media-icons:hover {
+footer 
+.media-icons:hover {
   background-color: #d3d3d3;
   opacity: 0.8;
 }
 
-footer a{
+footer 
+a{
   color: #fff;
 }
 
@@ -234,7 +247,8 @@ footer a{
     height: auto;
     margin: auto;
   }
-  .side-block .avatar {
+  .side-block 
+  .avatar {
     background: url("../images/avatar.png");
     background-position: center;
     background-size: cover;
@@ -248,7 +262,8 @@ footer a{
     font-size: 1.5rem;
   }
   
-  .side-block .contact {
+  .side-block 
+  .contact {
     padding: 0.4rem 1rem;
   }
 
