@@ -30,7 +30,7 @@ hr {
   box-shadow: 0 4px 10px 0 #808080;
 }
 
-.side-block.avatar {
+.side-block .avatar {
   background: url("../images/avatar.png");
   background-position: center;
   background-size: cover;
@@ -47,7 +47,7 @@ hr {
   font-size: 1.5rem; */
 }
 
-.side-block.contact {
+.side-block .contact {
   padding: 0.4rem 1rem;
 }
 
@@ -83,7 +83,7 @@ hr {
   text-align: center;
 }
 
-.adobe-green-bar.text {
+.adobe-green-bar .text {
   padding-top: 1%;
 }
 
@@ -96,7 +96,7 @@ hr {
   text-align: center;
 }
 
-.photography-green-bar.text {
+.photography-green-bar .text {
   padding-top: 1%;
 }
 
@@ -109,7 +109,7 @@ hr {
   text-align: center;
 }
 
-.illustrator-green-bar.text {
+.illustrator-green-bar .text {
   padding-top: 1%;
 }
 
@@ -122,7 +122,7 @@ hr {
   text-align: center;
 }
 
-.media-green-bar.text {
+.media-green-bar .text {
   padding-top: 1%;
 }
 
@@ -241,7 +241,7 @@ footer a {
     margin: auto;
   }
 
-  .side-block.avatar {
+  .side-block .avatar {
     background: url("../images/avatar.png");
     background-position: center;
     background-size: cover;
@@ -255,7 +255,7 @@ footer a {
     font-size: 1.5rem;
   }
 
-  .side-block.contact {
+  .side-block .contact {
     padding: 0.4rem 1rem;
   }
 
