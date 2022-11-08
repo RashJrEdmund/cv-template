@@ -253,8 +253,8 @@ a {
     height: auto;
     margin: auto;
   }
-  .side-block
-  .avatar {
+  
+  .side-block.avatar {
     background: url("../images/avatar.png");
     background-position: center;
     background-size: cover;
@@ -268,8 +268,7 @@ a {
     font-size: 1.5rem;
   }
 
-  .side-block
-  .contact {
+  .side-block.contact {
     padding: 0.4rem 1rem;
   }
 
