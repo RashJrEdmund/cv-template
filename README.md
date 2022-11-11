@@ -10,9 +10,9 @@
     It is as simple as clicking on it's link, or searching this url on your browser "https://rashjredmund.github.io/cv-template/"
 
 ## BUILT WITH
-    This page is basically built with just 
-    * html and 
-    * css for styling.
+    This page is basically built with just
+   * html and 
+   * css for styling.
 
 ## PREREQUISITES
    * You should already have a stable browser to use.
