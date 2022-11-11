@@ -11,18 +11,20 @@
 
 ## BUILT WITH
     This page is basically built with just 
-        -html and 
-        -css for styling.
+* html and 
+* css for styling.
 
-### PREREQUISITES
-    You should already have a stable browser to use.
+## PREREQUISITES
+* You should already have a stable browser to use.
+* Internet connection
+* and be familiar with github
 
 ## CLONE PROJECT
-    -to get a local copy of this on your machine, you'll need to clone this repository.
-    -clone the repository with
-    "////"
-    -all this is done using your Linux terminal or git-bash for windows users.
+* to get a local copy of this on your machine, you'll need to clone this repository.
+* clone the repository with
+* ////"
+* all this is done using your Linux terminal or git-bash for windows users.
 
 ## CONTRIBUTION
     Contributions, issues, and feature requests are welcome!
-    Feel free to check the [issues page](link to issue page on github).
+    Feel free to check the [issues page](https://github.com/RashJrEdmund/cv-template/issues).
