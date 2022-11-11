@@ -14,7 +14,7 @@
    * html and 
    * css for styling.
 
-## PREREQUISITES
+### PREREQUISITES
    * You should already have a stable browser to use.
    * Internet connection
    * and be familiar with github
